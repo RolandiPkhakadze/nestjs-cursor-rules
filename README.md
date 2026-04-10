@@ -21,14 +21,14 @@
 
 ```bash
 mkdir -p .cursor/rules
-curl -o .cursor/rules/anti-hallucination.mdc https://raw.githubusercontent.com/YOUR_USERNAME/nestjs-cursor-rules/main/anti-hallucination.mdc
+curl -o .cursor/rules/anti-hallucination.mdc https://raw.githubusercontent.com/RolandiPkhakadze/nestjs-cursor-rules/anti-hallucination.mdc
 ```
 
 ### Claude Code
 
 ```bash
 mkdir -p .claude/skills
-curl -o .claude/skills/anti-hallucination.md https://raw.githubusercontent.com/YOUR_USERNAME/nestjs-cursor-rules/main/claude-code/anti-hallucination.md
+curl -o .claude/skills/anti-hallucination.md https://raw.githubusercontent.com/RolandiPkhakadze/nestjs-cursor-rules/anti-hallucination.md
 ```
 
 ## What It Catches
